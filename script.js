@@ -85,7 +85,7 @@
   
   function tombol(){wallpaper.style="transform: scale(1);";Tombol.style="opacity:1;transform: scale(1);";fungsi=1}
   //document.getElementById("By").onclick = function() {if(fungsi==1){menuju();}}
-  async function menuju(){window.location = "https://wa.me/628999809547?text=iya+aku+mau+kokkkkk❤️❤️❤️" + pesanwhatsapp;muncultombol3();}
+  async function menuju(){window.location = "https://wa.me/6285880782497?text=iya+aku+mau+kokkkkk❤️❤️❤️" + pesanwhatsapp;muncultombol3();}
 
   kecepatan = 45;vketik1=kalimat.innerHTML;kalimat.innerHTML = "";
   function mulaiketik1(){
